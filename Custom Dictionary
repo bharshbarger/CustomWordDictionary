@@ -1,4 +1,5 @@
 AppSpider
+Asleap
 Atlassian
 AutOSINT
 BeEF
@@ -23,6 +24,7 @@ Django
 DoS
 Dsniff
 ESXi
+Ethernet
 Ettercap
 Frameable
 Grendelscan
@@ -41,13 +43,13 @@ Lantronix
 Lefkowitz
 LiveCD
 Maltego
+Metagoofil
 Metasploit
 Metasploit's
 Meterpreter
 Miewald
 Mimikatz
 MitM
-Nmap
 NTDS.dit
 Nagios
 NetNTLM
@@ -55,6 +57,7 @@ Nexpose
 Nginx
 Nhu
 Nikto
+Nmap
 OpenBSD
 OpenLDAP
 OpenSSH
@@ -92,14 +95,12 @@ Wget
 Whois
 WyD
 Zaffuto
-Asleap
 cleartext
 customHeaders
 deauthentication
 dnsmap
 doctype
 document.cookie
-Ethernet
 exfiltrate
 exfiltrated
 hashcat
@@ -114,13 +115,9 @@ java_rmi_server
 libpcap
 localgroup
 mDNS
-Metagoofil
 metamodule
-Metasploit
-Meterpreter
 mod_ssl
 mssql_enum
-nmap
 nosniff
 ntpd
 opcode
@@ -144,7 +141,6 @@ spidered
 spoolsvc
 sqlmap
 sqlninja
-ssh
 sslscan
 sslstrip
 sudo
