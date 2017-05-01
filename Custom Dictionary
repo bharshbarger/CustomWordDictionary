@@ -4,7 +4,6 @@ Atlassian
 AutOSINT
 BeEF
 BeEF's
-BlackBox
 BlueCoat
 Bluemix
 Burp Suite
@@ -26,7 +25,7 @@ Dsniff
 ESXi
 Ethernet
 Ettercap
-Frameable
+frameable
 Grendelscan
 HTTPOnly
 Habecker
@@ -68,9 +67,7 @@ Pandori
 Pipal
 PoC
 Postgres
-Protocal
 Proxystrike
-Ratproxy
 Referer
 RunAs
 SMBShakedown
@@ -154,6 +151,7 @@ vCenter
 vlan
 vlans
 wdigest
+webroot
 webroot's
 whoami
 whois
