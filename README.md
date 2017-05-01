@@ -1,5 +1,7 @@
 # CustomWordDictionary
 
+tl;dr, on OSX clone Custom Dictionary into  ~/Library/Group Containers/UBF8T346G9.Office/Custom Dictionary
+
 https://support.office.com/en-us/article/Use-a-custom-dictionary-in-Office-for-Mac-22ce4a39-c63b-41a3-903c-a6881c891ba7
 
 
